@@ -8,7 +8,7 @@ Release: %mkrel 1
 Summary: Video surveilance system (motion detector)
 License: GPL
 Group: Video
-URL: http://www.lavrsen.dk/foswiki/bin/view/Motion/WebHome
+URL: https://www.lavrsen.dk/foswiki/bin/view/Motion/WebHome
 Source: http://www.lavrsen.dk/sources/motion-daily/%{origname}-%{svnver}.tar.gz
 Source1: %{origname}.init
 Requires: libjpeg libffmpeg
